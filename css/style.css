@@ -187,3 +187,7 @@ header nav ul li:last-of-type a{
 .buttonsup{
     padding-right: 6px;
 }
+
+.qwerty{
+    display: flex;
+}
